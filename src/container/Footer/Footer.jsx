@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">Made by Harsh Chandwani with Love. All Rights reserved 2022.</p>
+      <p className="p__opensans"> All Rights reserved 2022.</p>
     </div>
 
   </div>
